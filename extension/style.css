@@ -181,6 +181,27 @@ pre {
     color: white;
 }
 
+
+[data-entity][data-entity="ACTION"] {
+    background: rgb(195, 196, 254);
+    border-color: rgb(195, 196, 254);
+}
+
+[data-entity][data-entity="ACTION"]::after {
+    background: rgb(8, 23, 234);
+    color: white;
+}
+
+[data-entity][data-entity="DESCRIPTION"] {
+    background: rgb(213, 195, 254);
+    border-color: rgb(213, 195, 254);
+}
+
+[data-entity][data-entity="DESCRIPTION"]::after {
+    background: rgb(68, 8, 234);
+    color: white;
+}
+
 /* Sticky Sidebar */
 .chatbot {
     position: fixed;

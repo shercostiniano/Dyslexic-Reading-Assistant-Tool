@@ -152,10 +152,10 @@ function render(render_data) {
         } else {
 
             if (pos.includes('VB')) {
-                render_str += `<mark data-entity="VERB">${word}</mark>`
+                render_str += `<mark data-entity="ACTION">${word}</mark>`
             }
             else if (pos.includes('JJ')) {
-                render_str += `<mark data-entity="ADJECTIVE">${word}</mark>`
+                render_str += `<mark data-entity="DESCRIPTION">${word}</mark>`
             }
             else {
                 render_str += word
