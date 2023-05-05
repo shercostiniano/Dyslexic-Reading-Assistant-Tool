@@ -11,7 +11,7 @@ Youtube Link: IstoryAI Walkthrough - YouTube
 4. Click on "Visit Site"
 5. Try and test IstoryAI web extension.
 ### Note:
-* If there are browsers that can't install using chrome webstore, kindly download the "extension" folder in the github repository https://github.com/shercostiniano/IstoryAI.
+* If there are browsers that can't install the extension using chrome webstore, kindly download the "extension" folder in the github repository https://github.com/shercostiniano/IstoryAI.
 * Go to the extension settings of the browser and find the "Load Unpacked Folder" and choose the "extension" folder. 
 * For Firefox go to about:addons > click the ⚙️ icon > debug add-ons > load temporary add-ons > navigate the "extension" folder and click any file inside it. 
 * When clicking the "Analyze" button make sure the current active tab is the web application link https://c305-152-32-112-32.ngrok-free.app/. We are using free version of  ngrok to host our NLP model.
