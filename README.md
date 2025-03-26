@@ -1,1 +1,2 @@
-It serves as a reading assistant tool for dyslexic students in comprehending Filipino short stories and improving  Filipino language acquisition. The web extension will utilize existing tools for dyslexic reading  assistance, such as text-to-speech, font modification and word highlighting. 
+- This is the application that utilizes our model from [filipino-stoytelling-ner](https://github.com/shercostiniano/filipino-stoytelling-ner)
+- It serves as a reading assistant tool for dyslexic students in comprehending Filipino short stories and improving  Filipino language acquisition. The web extension will utilize existing tools for dyslexic reading  assistance, such as text-to-speech, font modification and word highlighting. 
